@@ -1,0 +1,97 @@
+body{
+	margin: 0;
+	font-family: Georgia;
+}
+
+header{
+	background-color: #3D1974
+
+}
+
+h1{
+	margin: 0;
+	font-family: "Sigmar One";
+	text-align: center;
+	color: white;
+	font-size: 3.5rem;
+	padding-bottom: 0;
+}
+
+nav{
+	margin: 0;
+	text-align: left;
+	padding-top: 0;
+}
+
+nav a{
+	margin: 2px;
+	display: inline-block;
+	padding: 0.5em;
+	background-color: #2C1254;
+	border-radius: 5px;
+	width: 5em;
+}
+
+ol{
+	list-style: none;
+
+}
+
+h2{
+	font-family: "Sigmar One";
+	padding-left: 5px;
+	font-size: 2rem;
+	color: #CC297A;
+}
+
+p{
+	padding-left: 5px;
+	font-size: 20px;
+}
+
+blockquote{
+	font-size: 22px;
+	text-align: center;
+	color: #CC297A
+}
+
+figure{
+	border-radius:10px;
+	border:3px solid #2C1254;
+	background-color: #3D1974;
+	padding: 20px;
+}
+
+img{
+	width: 100%
+}
+
+figcaption{
+	color: white;
+	text-align: center;
+	padding-top: 5px;
+}
+
+h3{
+	font-family: "Sigmar One";
+	padding-left: 5px;
+	font-size: 1.5em;
+	color: #CC297A;
+}
+
+dt{
+	font-weight: bold;
+	font-size: 21px;
+}
+
+dd{
+	list-style: none;
+	margin:0;
+	font-size: 21px;
+}
+
+footer{
+	text-align: center;
+	padding: 2rem;
+	background-color: #CC297A;
+}
