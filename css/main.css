@@ -28,7 +28,7 @@ nav{
 	margin: .3rem;
 	text-align: left;
 	padding-top: 0;
-}
+	}
 
 nav a{
 	margin: 2px;
@@ -36,6 +36,9 @@ nav a{
 	background-color: #2C1254;
 	border-radius: 5px;
 	width: 5em;
+	text-decoration: none;
+	color: white;
+
 
 }
 
@@ -60,10 +63,25 @@ p{
 	font-size: 20px;
 }
 
-blockquote{
+.quotation{
+	font-size: 2em;
+	color: #CC297A;
+
+}
+
+.quote{
 	font-size: 22px;
 	text-align: center;
 	color: #CC297A
+}
+
+blockquote{
+	text-align:center;
+}
+
+cite{
+	color: #CC297A;
+	font-style: italic;
 }
 
 figure{
@@ -101,8 +119,18 @@ dd{
 	font-size: 21px;
 }
 
+i{
+	padding-left: 5px;
+}
+
+dl{
+	padding: 5px;
+}
+
 footer{
 	text-align: center;
 	padding: 2rem;
 	background-color: #CC297A;
 }
+
+.
