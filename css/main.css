@@ -36,6 +36,7 @@ nav a{
 	background-color: #2C1254;
 	border-radius: 5px;
 	width: 5em;
+
 }
 
 nav a:hover{
@@ -85,7 +86,7 @@ figcaption{
 h3{
 	font-family: "Sigmar One";
 	padding-left: 5px;
-	font-size: 1em;
+	font-size: 1.3em;
 	color: #CC297A;
 }
 
