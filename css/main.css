@@ -32,14 +32,14 @@ nav{
 
 nav a{
 	margin: 2px;
-	padding: 0.5em;
+	padding: 5px;
 	background-color: #2C1254;
 	border-radius: 5px;
 	width: 5em;
 }
 
-a:hover{
-	color: #E6FFFF;
+nav a:hover{
+	background-color: #ffffff;
 }
 
 ol{
@@ -85,7 +85,7 @@ figcaption{
 h3{
 	font-family: "Sigmar One";
 	padding-left: 5px;
-	font-size: 1.5em;
+	font-size: 1em;
 	color: #CC297A;
 }
 
