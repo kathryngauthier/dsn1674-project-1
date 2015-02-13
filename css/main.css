@@ -32,6 +32,10 @@ nav a{
 	width: 5em;
 }
 
+a:hover{
+	color: #E6FFFF;
+}
+
 ol{
 	list-style: none;
 
@@ -88,6 +92,11 @@ dd{
 	list-style: none;
 	margin:0;
 	font-size: 21px;
+}
+
+hr{
+	margin: 5px;
+	color: yellow;
 }
 
 footer{
