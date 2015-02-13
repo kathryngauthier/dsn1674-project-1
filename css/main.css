@@ -17,15 +17,21 @@ h1{
 	padding-bottom: 0;
 }
 
-nav{
+li{
+	display:inline;
 	margin: 0;
+	padding: 0;
+}
+
+nav{
+	display:inline-block;
+	margin: .3rem;
 	text-align: left;
 	padding-top: 0;
 }
 
 nav a{
 	margin: 2px;
-	display: inline-block;
 	padding: 0.5em;
 	background-color: #2C1254;
 	border-radius: 5px;
